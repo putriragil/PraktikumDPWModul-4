@@ -1,0 +1,15 @@
+body {
+    padding-top: 60px;
+}
+
+.navbar {
+    background-color: #f8f9fa;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.card-title {
+    font-weight: bold;
+}
